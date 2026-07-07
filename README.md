@@ -11,10 +11,6 @@ About Me
 
 </font>
 
-<br><br>
-
-💻 A 
-
 <font color="#8A2BE2">
 <b>Python Backend Developer</b>
 </font>
