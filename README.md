@@ -8,7 +8,7 @@ About Me
 </h2>
 
 <font color="#00FFFF">
-<b>Parham Norozi</b>
+
 </font>
 
 <br><br>
@@ -20,42 +20,6 @@ About Me
 </font>
 
 <br>
-
-who loves building software and exploring the world of technology.
-
-<br><br>
-
-🐍 Passionate about 
-
-<font color="#FFD700">
-<b>Python</b>
-</font>
-
-and backend development.
-
-<br><br>
-
-🐧 Enjoy working with 
-
-<font color="#00FF7F">
-<b>Linux</b>
-</font>
-
-and open-source systems.
-
-<br><br>
-
-🚀 Always learning, improving,
-and creating new things with code.
-
-<br><br>
-
-🧠 Interested in Backend Development,
-AI and the future of software engineering.
-
-</font>
-
-</font>
 
 </div>
 <div align="center">
