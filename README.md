@@ -5,4 +5,17 @@ hi
 
 
 <img src="https://skillicons.dev/icons?i=python" width="60"/>
-          
+
+          <h1 align="center">👋 سلام، من پرهام هستم</h1>
+
+<h3 align="center">
+Python Developer | Future AI Engineer
+</h3>
+
+<br>
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=python,html,css,linux&theme=dark" />
+
+</div>
