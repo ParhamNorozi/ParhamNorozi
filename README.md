@@ -3,22 +3,10 @@
 </div>
 <br>
 
-
-</div>
-<div align="center">
-<h2>
-<font face="Courier New" color="#00FFFF">
 🖤 About Me
 </font>
 </h2>
 
-<br>
-
-<font face="Courier New">
-
-<font color="#C9D1D9">
-
-👋 Hi, I'm 
 
 <font color="#00FFFF">
 <b>Parham Norozi</b>
