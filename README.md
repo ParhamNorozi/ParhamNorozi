@@ -29,15 +29,3 @@
 </p>
 
 ---
-
-## 🖤 About Me
-
-```text
-I'm a passionate developer who loves learning,
-creating and improving every day.
-
-I enjoy working with Python, exploring backend
-technologies, and using Linux as my development environment.
-
-My goal is to build useful software, solve problems,
-and grow as a developer step by step. 🚀
