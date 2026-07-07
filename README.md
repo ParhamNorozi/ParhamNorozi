@@ -10,3 +10,34 @@
 <img src="https://skillicons.dev/icons?i=python,html,css,linux&theme=dark" />
 
 </div>
+
+
+
+<div align="center">
+
+<h2>👋 سلام، من پرهام هستم</h2>
+
+</div>
+
+<p align="center">
+💻 Python Backend Developer <br>
+🐧 Linux Enthusiast <br>
+🚀 Passionate about Programming & Technology <br>
+🧠 Always Learning New Skills and Exploring New Ideas <br>
+⚡ Interested in Backend Development, AI & Open Source <br>
+🌌 Building my journey in the world of Code
+</p>
+
+---
+
+## 🖤 About Me
+
+```text
+I'm a passionate developer who loves learning,
+creating and improving every day.
+
+I enjoy working with Python, exploring backend
+technologies, and using Linux as my development environment.
+
+My goal is to build useful software, solve problems,
+and grow as a developer step by step. 🚀
