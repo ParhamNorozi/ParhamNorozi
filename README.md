@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**ParhamNorozi/ParhamNorozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌─────────────────────────────────────────────┐
+│           3D Cyber Banner                   │
+│                                             │
+│        👨‍💻 PARHAM NOROZI                    │
+│     Python • Backend • AI • Linux           │
+└─────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
+           Typing Animation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+──────────────────────────────────────────────
+
+About Me
+
+──────────────────────────────────────────────
+
+Tech Stack (Icons)
+
+──────────────────────────────────────────────
+
+GitHub Stats
+
+Top Languages
+
+GitHub Streak
+
+──────────────────────────────────────────────
+
+Featured Projects
+
+──────────────────────────────────────────────
+
+Learning Roadmap
+
+──────────────────────────────────────────────
+
+Visitor Counter
+
+Snake Animation
+
+──────────────────────────────────────────────
+
+Social Links
