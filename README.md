@@ -1,24 +1,11 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Parham+Norozi;Python+Backend+Developer" />
-
 </div>
 <br>
 
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,linux,git,github,vscode,html,css,sqlite&theme=dark" />
-
 </div>
-
 <div align="center">
-
-
-</div>
-
-<div align="center">
-
 <h2>
 <font face="Courier New" color="#00FFFF">
 🖤 About Me
@@ -83,4 +70,7 @@ AI and the future of software engineering.
 
 </font>
 
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,linux,git,github,vscode,html,css,sqlite&theme=dark" />
 </div>
