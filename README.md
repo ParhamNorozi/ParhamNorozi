@@ -4,9 +4,6 @@
 <br>
 <div align="center">
 
-</font>
-</h2>
-
 <font color="#00FFFF">
 
 </font>
