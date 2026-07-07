@@ -11,7 +11,11 @@
 
 </div>
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,git,github,vscode,html,css,sqlite,postgres,docker,nginx&theme=dark" />
+
+</div>
 
 <div align="center">
 
