@@ -30,51 +30,35 @@
 
 
 
-
 <div align="center">
 
-<h1>
-  <span style="color:#00FFFF; font-family:'Fira Code', monospace;">
-    👋 سلام، من پرهام هستم
-  </span>
-</h1>
-
-<h3>
-  <span style="color:#8A2BE2; font-family:'Fira Code', monospace;">
-    🐍 Python Backend Developer
-  </span>
-</h3>
-
-<br>
-
-<p>
-  <span style="color:#C9D1D9; font-family:'Fira Code', monospace; font-size:16px;">
-    
-  💻 عاشق ساختن با Python و دنیای Backend Development هستم.<br>
-  🐧 علاقه‌مند به Linux و دنیای Open Source.<br>
-  🚀 همیشه در حال یادگیری تکنولوژی‌های جدید و بهتر کردن مهارت‌هایم هستم.<br>
-  🧠 علاقه‌مند به Backend، هوش مصنوعی و آینده تکنولوژی.<br>
-  ⚡ مسیر من: یادگیری → ساختن → تجربه کردن → پیشرفت کردن
-  
-  </span>
-</p>
-
-<br>
-
 <h2>
-<span style="color:#00FFFF; font-family:'Fira Code', monospace;">
-⚡ My Journey
+<span style="font-family: 'Fira Code', monospace; color:#00FFFF;">
+🖤 About Me
 </span>
 </h2>
 
 <p>
-<span style="color:#A0A0A0; font-family:'Fira Code', monospace;">
+<span style="font-family: 'Fira Code', monospace; color:#C9D1D9; font-size:16px;">
 
-"Every line of code is a step closer to my goals." 🚀
+👋 Hi, I'm <b style="color:#00FFFF;">Parham Norozi</b><br><br>
+
+💻 A <b style="color:#8A2BE2;">Python Backend Developer</b> who loves building<br>
+new things with code and exploring the world of technology.<br><br>
+
+🐍 I'm passionate about <b style="color:#FFD700;">Python</b>, backend development,<br>
+and writing clean & efficient code.<br><br>
+
+🐧 I enjoy working with <b style="color:#00FF7F;">Linux</b> and exploring<br>
+the power of open-source systems.<br><br>
+
+🚀 Always learning, improving, and turning ideas into reality<br>
+one line of code at a time.<br><br>
+
+🧠 Interested in Backend Development, AI,<br>
+and the future of software engineering.
 
 </span>
 </p>
 
 </div>
-
----
