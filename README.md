@@ -1,5 +1,3 @@
-hi
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+hi 
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
           
