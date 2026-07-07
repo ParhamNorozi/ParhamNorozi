@@ -5,15 +5,10 @@
 </div>
 <br>
 
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,html,css,linux&theme=dark" />
-
-</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,git,github,vscode,html,css,sqlite,postgres,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,linux,git,github,vscode,html,css,sqlite,postgres,nginx&theme=dark" />
 
 </div>
 
