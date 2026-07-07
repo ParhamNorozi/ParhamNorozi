@@ -3,10 +3,9 @@
 </div>
 <br>
 <div align="center">
-🖤 About Me
+About Me
 </font>
 </h2>
-
 
 <font color="#00FFFF">
 <b>Parham Norozi</b>
