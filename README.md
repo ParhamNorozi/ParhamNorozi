@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-About Me
+
 </font>
 </h2>
 
@@ -12,7 +12,7 @@ About Me
 </font>
 
 <font color="#8A2BE2">
-<b>Python Backend Developer</b>
+<h2>Python Backend Developer<h2>
 </font>
 
 <br>
