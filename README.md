@@ -17,48 +17,70 @@
 
 </div>
 
-<p align="center">
-💻 Python Backend Developer <br>
-🐧 Linux Enthusiast <br>
-🚀 Passionate about Programming & Technology <br>
-🧠 Always Learning New Skills and Exploring New Ideas <br>
-⚡ Interested in Backend Development, AI & Open Source <br>
-🌌 Building my journey in the world of Code
-</p>
-
-
-
-
-
 <div align="center">
 
 <h2>
-<span style="font-family: 'Fira Code', monospace; color:#00FFFF;">
+<font face="Courier New" color="#00FFFF">
 🖤 About Me
-</span>
+</font>
 </h2>
 
-<p>
-<span style="font-family: 'Fira Code', monospace; color:#C9D1D9; font-size:16px;">
+<br>
 
-👋 Hi, I'm <b style="color:#00FFFF;">Parham Norozi</b><br><br>
+<font face="Courier New">
 
-💻 A <b style="color:#8A2BE2;">Python Backend Developer</b> who loves building<br>
-new things with code and exploring the world of technology.<br><br>
+<font color="#C9D1D9">
 
-🐍 I'm passionate about <b style="color:#FFD700;">Python</b>, backend development,<br>
-and writing clean & efficient code.<br><br>
+👋 Hi, I'm 
 
-🐧 I enjoy working with <b style="color:#00FF7F;">Linux</b> and exploring<br>
-the power of open-source systems.<br><br>
+<font color="#00FFFF">
+<b>Parham Norozi</b>
+</font>
 
-🚀 Always learning, improving, and turning ideas into reality<br>
-one line of code at a time.<br><br>
+<br><br>
 
-🧠 Interested in Backend Development, AI,<br>
-and the future of software engineering.
+💻 A 
 
-</span>
-</p>
+<font color="#8A2BE2">
+<b>Python Backend Developer</b>
+</font>
+
+<br>
+
+who loves building software and exploring the world of technology.
+
+<br><br>
+
+🐍 Passionate about 
+
+<font color="#FFD700">
+<b>Python</b>
+</font>
+
+and backend development.
+
+<br><br>
+
+🐧 Enjoy working with 
+
+<font color="#00FF7F">
+<b>Linux</b>
+</font>
+
+and open-source systems.
+
+<br><br>
+
+🚀 Always learning, improving,
+and creating new things with code.
+
+<br><br>
+
+🧠 Interested in Backend Development,
+AI and the future of software engineering.
+
+</font>
+
+</font>
 
 </div>
