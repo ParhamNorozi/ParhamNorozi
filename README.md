@@ -10,5 +10,5 @@
 
 <font color="#8A2BE2">
 <h2>Python Backend Developer<h2>
-  <img src="your-xcode-icon.png" width="100">
+<img src="your-xcode-icon.png" width="100">
 <img src="https://skillicons.dev/icons?i=python,django,linux,git,github,vscode,html,css,apple,pycharm,sqlite,xcode&theme=dark" />
