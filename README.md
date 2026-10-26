@@ -15,3 +15,6 @@
 <img src="https://skillicons.dev/icons?i=python,django,linux,git,github,vscode,html,css,pycharm&theme=dark" />
 
 
+
+
+
